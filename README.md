@@ -1,4 +1,4 @@
-# ESP8266 DHT11 Data Spy Build
+# 🔥ESP8266 DHT11 Data Spy Build🧑‍🚀
 
 ## How to use this
 connect your ESP8266, BMP180, BH1750 and DHT11 sensor like this, GND&- to GND, +&vcc to 3v, careful with D1 D2 D7 pins: 
