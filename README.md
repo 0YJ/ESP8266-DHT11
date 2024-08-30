@@ -2,6 +2,7 @@
 
 ### Get drduino ide
 ```
+git clone https://github.com/0YJ/ESP8266-DHT11.git
 sudo apt update
 sudo apt upgrade
 sudo apt install arduino
