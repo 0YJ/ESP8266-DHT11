@@ -27,3 +27,6 @@ Toos-Boards-ESP8266-NODE MCU 1.0
 Port: /dev/ttyCH341USB0
 
 Update codes and do serial monitoring. 
+
+What to do next: 
+Frontend, API, Database. 
