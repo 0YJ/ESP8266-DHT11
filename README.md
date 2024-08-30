@@ -3,6 +3,7 @@ connect your ESP8266, BMP180, BH1750 and DHT11 sensor like this, GND&- to GND, +
 <p align="left">
   <img src="src/IMG_2421.jpeg" alt ="connection" width="266" height="266">
 </p>
+
 ### Get drduino ide
 ```
 git clone https://github.com/0YJ/ESP8266-DHT11.git
