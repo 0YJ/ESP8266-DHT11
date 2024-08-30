@@ -18,6 +18,7 @@ cd CH341SER_LINUX/driver
 sudo make -j8
 sudo make install
 sudo dmesg
+lsusb
 ```
 
 Then connect ESP8266, open IDE
