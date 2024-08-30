@@ -19,7 +19,7 @@ Then connect ESP8266, open IDE
 arduino
 ```
 
-Peference, addition developing board url: http://arduino.esp8266.com/stable/package_esp8266com_index.json 
+Peference, addition [developing board](http://arduino.esp8266.com/stable/package_esp8266com_index.json) 
 
 Toos-Boards-ESP8266-NODE MCU 1.0
 Port: /dev/ttyCH341USB0
