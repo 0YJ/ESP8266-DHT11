@@ -1,5 +1,8 @@
 # How to use this
-
+connect your ESP8266, DHT11 like this: 
+<p align="left">
+  <img src="src/logo.png" alt ="avatar" width="600" height="300">
+</p>
 ### Get drduino ide
 ```
 git clone https://github.com/0YJ/ESP8266-DHT11.git
