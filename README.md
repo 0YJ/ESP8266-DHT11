@@ -7,7 +7,7 @@ sudo apt upgrade
 sudo apt install arduino
 ```
 
-### Install driver CH340/CH341
+### Install driver CH340/CH341 (drive is modified for GCC 13 on ubuntu, ready to use)
 ```
 cd CH341SER_LINUX/driver
 sudo make -j8
