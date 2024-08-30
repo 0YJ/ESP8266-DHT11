@@ -1,13 +1,13 @@
 # How to use this
 
-### get drduino ide
+### Get drduino ide
 ```
 sudo apt update
 sudo apt upgrade
 sudo apt install arduino
 ```
 
-### install driver CH340/CH341
+### Install driver CH340/CH341
 ```
 cd CH341SER_LINUX/driver
 sudo make -j8
