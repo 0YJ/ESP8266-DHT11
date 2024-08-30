@@ -28,5 +28,7 @@ Port: /dev/ttyCH341USB0
 
 Update codes and do serial monitoring. 
 
-What to do next: 
+# What to do next: 
 Frontend, API, Database. 
+# Future
+Crazy sensors. 
